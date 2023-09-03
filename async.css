@@ -1,0 +1,16 @@
+body {
+  font-family: 'Space Mono', monospace;
+  padding: 20px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 60vh;
+}
+
+.locationName,
+.locationTemp {
+  font-size: 5em;
+}
